@@ -2,6 +2,7 @@
 
 Lancer le projet:
 
-- npx expo start
-- i > iOS simulator
-- a > Android simulator
+- ouvrir le projet sur VS Code
+- dans le terminal, taper npx expo start
+- taper i pour ouvrir l'iOS simulator
+- taper a pour ouvrir l'Android simulator
